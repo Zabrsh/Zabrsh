@@ -1,6 +1,6 @@
 <h1>👋 Hello, I'm Abrham</h1>
 
-<h2>🛠 Software Engineer | 🌐Full-Stack JavaScript Developer | 🚀 Innovator </h2>
+<h2>🛠 Software Engineer | 🌐Full-Stack JavaScript Developer | </h2>
 
 <hr>
 
