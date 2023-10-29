@@ -44,6 +44,12 @@
 
 <hr>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zabrsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zabrsh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zabrsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 <h3>🤝 Let's Connect</h3>
 <p>If you're looking for someone who doesn't just develop but innovates, let's create, innovate, and elevate together.</p>
 <ul>
