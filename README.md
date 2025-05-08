@@ -9,7 +9,7 @@ I'm a **Software Engineer** and **Data Scientist** passionate about transforming
 - ⚡ **Fun fact**: I built an AI-powered app to teach Amharic, inspired by my Ethiopian roots! [Website](https://haleta-amharic.web.app/)☕
 
 ## 🛠️ Skills
-- **Languages**: Python, C++, JavaScript, TypeScript, HTML5, CSS3
+- **Languages**: JavaScript, Python, C++
 - **Frameworks/Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, React, Node.js, Next.js, Flutter
 - **Databases**: SQL, MongoDB, PostgreSQL, SQLite
 - **Tools/Platforms**: AWS, Firebase, Docker, Git, Linux, Hadoop, Spark
