@@ -4,7 +4,7 @@ I'm a **Software Engineer** and **Data Scientist** passionate about transforming
 
 ## 🌟 About Me
 - 🔭 **Currently working on**: [Coffee Yield Prediction](https://github.com/Zabrsh/coffee-yield-prediction), using Sentinel-2 satellite imagery and neural networks to optimize agricultural outcomes.
-- 🌱 **Learning**: classical machine learning skills, deep learning techniques, cloud computing, and C++ for systems programming.
+- 🌱 **Learning**: classical machine learning, deep learning techniques, cloud computing, and C++
 - 👯 **Open to collaborate on**: Open-source projects in AI/ML, geospatial analysis, or mobile/web development.
 - ⚡ **Fun fact**: I built an AI-powered app to teach Amharic, inspired by my Ethiopian roots! [Website](https://haleta-amharic.web.app/)☕
 
