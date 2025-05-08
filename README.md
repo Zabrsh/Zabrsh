@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abraham!
 
-I'm a **Software Engineer** and **Data Scientist** passionate about transforming data into actionable insights and building innovative solutions. With a strong foundation in Python, machine learning, and full-stack development, I thrive on solving real-world problems through code. Currently pursuing MSc in Data Science at (NUST MISIS](https://misis.ru/) and working on AI-driven projects at GobezTech Digital Systems.
+I'm a **Software Engineer** and **Data Scientist** passionate about transforming data into actionable insights and building innovative solutions. With a strong foundation in Python, machine learning, and full-stack development, I thrive on solving real-world problems through code. Currently pursuing MSc in Data Science at [NUST MISIS](https://misis.ru/) and working on AI-driven projects at GobezTech Digital Systems.
 
 ## 🌟 About Me
 - 🔭 **Currently working on**: [Coffee Yield Prediction](https://github.com/Zabrsh/coffee-yield-prediction), using Sentinel-2 satellite imagery and neural networks to optimize agricultural outcomes.
