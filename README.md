@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abraham Kebede!
+# 👋 Hi, I'm Abraham!
 
 I'm a **Software Engineer** and **Data Scientist** passionate about transforming data into actionable insights and building innovative solutions. With a strong foundation in Python, machine learning, and full-stack development, I thrive on solving real-world problems through code. Currently pursuing an MSc in Data Science at NUST MISIS and working on AI-driven projects at GobezTech Digital Systems.
 
