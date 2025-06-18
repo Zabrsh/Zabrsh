@@ -30,7 +30,7 @@ I'm a **Software Engineer** and **Data Scientist** passionate about transforming
 ## 📈 Featured Projects
 - **[Coffee Yield Prediction](https://github.com/Zabrsh/coffee-yield-prediction)** 
  Analyzing Sentinel-2 time-series data with neural networks to predict coffee yields in Ethiopia, supporting agricultural decision-making.
-- **[Freelance Job Market Analysis](https://github.com/Zabrsh/job-market-analysis)** 
+- **[Freelance Job Market Analysis](https://www.kaggle.com/datasets/zabrsh/ethiopia-freelance-job-posts-2022-2024)** 
  Built an ETL pipeline and predictive model (R² = 0.93) to forecast job market trends using Python, Pandas, and Scikit-learn.
 - **[Haleta: AI-Powered Language Learning App](https://github.com/Zabrsh/haleta)** 
  Developed a Flutter-based mobile app with Firebase and SQLite, featuring in-app purchases and push notifications for learning Amharic.
