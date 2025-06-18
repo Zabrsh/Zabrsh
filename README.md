@@ -3,7 +3,7 @@
 I'm a **Software Engineer** and **Data Scientist** passionate about transforming data into actionable insights and building innovative solutions. With a strong foundation in Python, machine learning, and full-stack development, I thrive on solving real-world problems through code. Currently pursuing MSc in Data Science at [NUST MISIS](https://misis.ru/) and working on AI-driven projects at GobezTech Digital Systems.
 
 ## 🌟 About Me
-- 🔭 **Currently working on**: [Coffee Yield Prediction](https://github.com/Zabrsh/coffee-yield-prediction), using Sentinel-2 satellite imagery and neural networks to optimize agricultural outcomes.
+- 🔭 **Currently working on**: [Coffee Yield Prediction]( https://github.com/Zabrsh/coffee-yield-prediction-using-remote-sensing-data), using Sentinel-2 satellite imagery and neural networks to optimize agricultural outcomes.
 - 🌱 **Learning**: classical machine learning, deep learning techniques, cloud computing, and C++
 - 👯 **Open to collaborate on**: Open-source projects in AI/ML, geospatial analysis, or mobile/web development.
 - ⚡ **Fun fact**: I built an AI-powered app to teach Amharic, inspired by my Ethiopian roots! [Website](https://haleta-amharic.web.app/)☕
